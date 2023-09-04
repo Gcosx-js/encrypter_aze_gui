@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>gifler/cixis.png</file>
+    <file>gifler/folder.png</file>
+    <file>gifler/help.png</file>
+    <file>gifler/key.png</file>
+    <file>gifler/text.png</file>
+    <file>gifler/logo.png</file>
+  </qresource>
+</RCC>
